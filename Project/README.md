@@ -6,6 +6,8 @@ __This README documents necessary steps to get the application up and running.__
 
 # Description
 *I have been coding since January 2020.  This is my 3rd and 4th project and efforts. The repository contains tasks and project for Fundamentals of Data Analysis module.*
+This project perform and explain simple linear regression using Pythonon the powerproduction dataset available on repository. 
+
 
 
 # Python version
