@@ -8,6 +8,9 @@ __This README documents necessary steps to get the application up and running.__
 *I have been coding since January 2020.  This is my 3rd and 4th project and efforts. The repository contains tasks and project for Fundamentals of Data Analysis module.*
 This project perform and explain simple linear regression using Pythonon the powerproduction dataset available on repository. 
 
+# Particular project`s description
+In this project I performed and explained simple linear regression using Python on the powerproduction dataset available on the repository. The goal is to accurately predict wind turbine power output from wind speed values using the data set as a basis. 
+
 
 
 # Python version
@@ -28,6 +31,7 @@ Install appropriate Python version and a code editor. For software library pleas
 Required libraries:
 * matplotlib.pyplot;
 * numpy;
+* scikit-learn;
 * seaborn;
 * pandas.
 
@@ -38,7 +42,7 @@ Required libraries:
 Not applicable in this stage. 
 
 *Installation instruction:*
-* for ex. 'python -m pip install -U seaborn' in your working environment. 
+* for ex. 'python -m pip install -U seaborn' (as example-can be any library) in your working environment. 
 
 
 # Database initialization
